@@ -44,8 +44,8 @@ In the space below:
     - As a user, I want to be able to SAVE my favorite shelters and charities to more easily find them in the future
 ----------------------------------------------------------
 ### Wireframes
-![Index](github.com/ecguerra/Project2Ideas/Wireframe/Project_2_index)
-![Create Account](/Wireframe/Project_2_create_new)
+![Index](github.com/ecguerra/Project2Ideas/Wireframe/Project_2_index.png)
+![Create Account](/Wireframe/Project_2_create_new.png)
 ![Login](/Wireframe/Project_2_login)
 ![User Home](/Wireframe/Project_2_user_home)
 ![User Clothing Index](/Wireframe/Project_2_user_clothing_index)
