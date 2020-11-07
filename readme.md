@@ -44,16 +44,16 @@ In the space below:
     - As a user, I want to be able to SAVE my favorite shelters and charities to more easily find them in the future
 ----------------------------------------------------------
 ### Wireframes
-![Index](/Wireframe/Project_2_index)
-![Create Account](/Wireframe/Project_2_create_new)
-![Login](/Wireframe/Project_2_login)
-![User Home](/Wireframe/Project_2_user_home)
-![User Clothing Index](/Wireframe/Project_2_user_clothing_index)
-![User Clothing Detail](/Wireframe/Project_2_user_clothing_detail)
-![User Clothing Edit](/Wireframe/Project_2_user_clothing_edit)
-![Shelter Search](/Wireframe/Project_2_shelter_search)
-![Shelter Results](/Wireframe/Project_2_user_shelter_results)
-![User Saved Shelters](/Wireframe/Project_2_user_saved_shelters)
+![Index](/Wireframe/Project_2_index.png)
+![Create Account](/Wireframe/Project_2_create_new.png)
+![Login](/Wireframe/Project_2_login.png)
+![User Home](/Wireframe/Project_2_user_home.png)
+![User Clothing Index](/Wireframe/Project_2_user_clothing_index.png)
+![User Clothing Detail](/Wireframe/Project_2_user_clothing_detail.png)
+![User Clothing Edit](/Wireframe/Project_2_user_clothing_edit.png)
+![Shelter Search](/Wireframe/Project_2_shelter_search.png)
+![Shelter Results](/Wireframe/Project_2_user_shelter_results.png)
+![User Saved Shelters](/Wireframe/Project_2_user_saved_shelters.png)
 ----------------------------------------------------------
 ### APIs and Other Outside Tech
 - I can't find an API specifically, but there are two websites that look like they'd be good for data scraping:
