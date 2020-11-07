@@ -52,7 +52,7 @@ In the space below:
 ![User Clothing Detail](/Wireframe/Project_2_user_clothing_detail.png)
 ![User Clothing Edit](/Wireframe/Project_2_user_clothing_edit.png)
 ![Shelter Search](/Wireframe/Project_2_shelter_search.png)
-![Shelter Results](/Wireframe/Project_2_user_shelter_results.png)
+![Shelter Results](/Wireframe/Project_2_shelter_results.png)
 ![User Saved Shelters](/Wireframe/Project_2_user_saved_shelters.png)
 ----------------------------------------------------------
 ### APIs and Other Outside Tech
